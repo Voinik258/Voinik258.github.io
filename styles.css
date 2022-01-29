@@ -1,0 +1,14 @@
+h1, h2 {
+    color: white
+}
+body{
+    background-color:rgb(103, 136, 185)
+}
+/* class */
+.green{
+    color: yellowgreen;
+}
+
+.bold {
+    font-weight: bold;
+}

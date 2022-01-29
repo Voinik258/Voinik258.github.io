@@ -1,2 +1,0 @@
-# Gde
-Hello world da
